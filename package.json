@@ -1,6 +1,6 @@
 {
-  "name": "opp",
-  "homepage":"http://prayansh1.github.io/first",
+  "name": "First",
+  "homepage":"http://prayansh1.github.io/First",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
